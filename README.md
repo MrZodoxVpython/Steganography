@@ -1,2 +1,2 @@
 # Steganography
-Images analyst
+Image analyst
